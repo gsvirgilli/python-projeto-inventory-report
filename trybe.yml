@@ -1,0 +1,26 @@
+ignore_files:
+  - .editorconfig
+  - .gitignore
+  - dev-requirements.txt
+  - docker-compose.yml
+  - Dockerfile
+  - inventory_report/__init__.py
+  - inventory_report/__main__.py
+  - inventory_report/cli/__init__.py
+  - inventory_report/product.py
+  - inventory_report/reports/__init__.py
+  - pyproject.toml
+  - setup.cfg
+  - tests/__init__.py
+  - tests/conftest.py
+  - tests/product_report/__init__.py
+  - tests/product_report/conftest.py
+  - tests/product_report/mocks.py
+  - tests/product/__init__.py
+  - tests/product/conftest.py
+  - tests/product/mocks.py
+  - tests/test_importers.py
+  - tests/test_input_handler.py
+  - tests/test_inventory.py
+  - tests/test_report.py
+  - tests/test_reports.py

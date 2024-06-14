@@ -1,0 +1,84 @@
+{
+  "requirements": [
+    {
+      "bonus": false,
+      "description": "1 - Teste o construtor/inicializador do objeto Produto",
+      "enabled": true,
+      "identifier": "test_create_product[Product]",
+      "order": 1,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "2 - Teste o relatório individual gerado por Produto",
+      "enabled": true,
+      "identifier": "test_product_report[Product]",
+      "order": 2,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "3 - Crie a Interface `Importer`",
+      "enabled": true,
+      "identifier": "test_importer_final",
+      "order": 3,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "4 - Crie a classe `JsonImporter`",
+      "enabled": true,
+      "identifier": "test_validate_json_importer",
+      "order": 4,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "5 - Crie a classe `Inventory`",
+      "enabled": true,
+      "identifier": "test_inventory_final",
+      "order": 5,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "6 - Crie o protocolo `Report`",
+      "enabled": true,
+      "identifier": "test_report_final",
+      "order": 6,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "7 - Crie o relatório `SimpleReport`",
+      "enabled": true,
+      "identifier": "test_simple_report",
+      "order": 7,
+      "skill_ids": []
+    },
+    {
+      "bonus": true,
+      "description": "8 - Crie a classe `CsvImporter`",
+      "enabled": true,
+      "identifier": "test_validate_csv_importer",
+      "order": 8,
+      "skill_ids": []
+    },
+    {
+      "bonus": true,
+      "description": "9 - Crie o relatório `CompleteReport`",
+      "enabled": true,
+      "identifier": "test_complete_report",
+      "order": 9,
+      "skill_ids": []
+    },
+    {
+      "bonus": true,
+      "description": "10 - Crie a função `process_report_request `",
+      "enabled": true,
+      "identifier": "test_process_report_final",
+      "order": 10,
+      "skill_ids": []
+    }
+  ]
+}
